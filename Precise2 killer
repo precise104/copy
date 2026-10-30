@@ -1,2 +1,4 @@
 pkill -f client.py
 
+
+rm -f ~/.config/.cache/device_id.txt
